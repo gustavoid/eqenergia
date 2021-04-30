@@ -1,5 +1,3 @@
-# import wathdog
-import threading
 import argparse
 import os
 from eqenergia.eqenergia import Automation
@@ -36,9 +34,11 @@ def main():
         if not verifyDir(directory):
             print(f"[-] Não foi possivel encontrar o diretorio {directory}")
             exit(0)
-    aut = Automation(cnpj,email,nome,uc,directory,headless,mes)
+    if not os.path.exists(os.path.join(os.getcwd(),"tmp")):
+        os.mkdir(os.path.join(os.getcwd(),"tmp"))
+
+    aut = Automation(cnpj,email,nome,uc,directory,headless,mes,60)
     aut.login()
     aut.downloadBills()
-
 if __name__ == '__main__':
     main()
