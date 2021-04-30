@@ -1,0 +1,1 @@
+python3 bot.py --email direcao.maraba@unama.br --cnpj 04986320005263
