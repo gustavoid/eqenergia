@@ -1,0 +1,123 @@
+1619727370776	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebe8M7v"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619727375832	Marionette	INFO	Listening on port 36457
+1619727375930	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619727481829	Marionette	INFO	Stopped listening on port 36457
+1619727485622	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4SsoxT"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619727490498	Marionette	INFO	Listening on port 46869
+1619727490599	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619727559737	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619727573740	Marionette	INFO	Stopped listening on port 46869
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 446: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1619727599360	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9mxwbC"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619727604236	Marionette	INFO	Listening on port 35285
+1619727604319	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1619727712515	Marionette	INFO	Stopped listening on port 35285
+1619727835790	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEUE6xo"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619727841123	Marionette	INFO	Listening on port 42089
+1619727841234	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619728198583	Marionette	INFO	Stopped listening on port 42089
+1619728202598	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileY2t5Vp"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619728208321	Marionette	INFO	Listening on port 35321
+1619728208463	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619728237429	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1619728343288	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevoqZru"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619728348001	Marionette	INFO	Listening on port 37963
+1619728348143	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1619728557093	Marionette	INFO	Stopped listening on port 37963
+1619728559568	Marionette	INFO	Stopped listening on port 35321
+1619728907289	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledgIrAS"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619728912197	Marionette	INFO	Listening on port 40481
+1619728912260	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619729006913	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileb7IhPm"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619729012244	Marionette	INFO	Listening on port 33565
+1619729012352	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: uncaught exception: Timeout (o)
+1619729121531	Marionette	INFO	Stopped listening on port 40481
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NetworkError: A network error occurred.
